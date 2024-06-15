@@ -256,8 +256,6 @@ span {
 }
 
 .text {
-  /* width: 120%; */
-  /* padding: 10px 60px 10px 14px; */
   font-family: 'open_sanslight';
   font-size: 14px;
   padding-right: 15px;
@@ -268,10 +266,6 @@ span {
   padding-bottom: 50px;
   padding-top: 10px;
   padding-left: 14px;
-  /* padding-bottom: 40px; */
-  /* padding: 10px 362px 95px 14px; */
-  /* height: 164px; */
-  /* width: 630px; */
 }
 
 .personal_info {
@@ -282,10 +276,8 @@ span {
 .message {
   display: flex;
   gap: 30px;
-  /* width: 80%; */
   margin: 0 95px;
   box-shadow: 0px 2px 20px #2067DD33;
-  /* padding-bottom: 126px; */
 }
 
 .drone-img {
@@ -315,8 +307,6 @@ span {
 }
 
 .form {
-  /* padding: 38px 30px; */
-  /* width: 60%; */
   padding: 15px 0 25px 30px;
 }
 
@@ -342,7 +332,6 @@ span {
 }
 
 .contact_details {
-  /* width: 40%; */
   padding-top: 38px;
   padding-right: 75px;
   color: white;
@@ -350,16 +339,6 @@ span {
   background-color: #2067DD;
   padding-left: 30px;
 }
-
-/* .message::after{
-    content: "";
-    background-image: url(../images/Drone\ Ilustration.png);
-    width: 100%;
-    display: block;
-    position: absolute;
-    height: 161px;
-    background-repeat: no-repeat;
-} */
 .contact_details h3 {
   padding-bottom: 37px;
 }
